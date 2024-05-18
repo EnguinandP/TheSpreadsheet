@@ -1,2 +1,2 @@
 # TheSpreadsheet
-# Keeps track of spendings
+Keeps track of spendings
