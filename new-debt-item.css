@@ -36,3 +36,8 @@ p {
     display: flex;
     flex-direction: row;
 }
+
+.portion-text {
+    display: none;
+
+}
