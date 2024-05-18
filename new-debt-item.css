@@ -1,0 +1,38 @@
+h4 {
+    margin-top: 0;
+    margin-bottom: 3px;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 3px;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 200px 75px 100px 75px 100px 100px 100px 100px 100px;
+    margin-top: 20px;
+}
+
+.attr {
+    display: grid;
+    place-items: center;
+    margin: 10px;
+    background-color: lightblue;
+}
+
+.attr-name {
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+.attr-box {
+    width: 90%;
+    align-items: center;
+    
+}
+
+.curr-box {
+    display: flex;
+    flex-direction: row;
+}
